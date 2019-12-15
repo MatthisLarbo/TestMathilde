@@ -1,0 +1,9 @@
+how to execute the code?
+
+First, run as java application GuiApp.java
+
+Then, in command prompt :
+
+cd (the directory of the bin) 
+java ee402.Client localhost Client1  
+
